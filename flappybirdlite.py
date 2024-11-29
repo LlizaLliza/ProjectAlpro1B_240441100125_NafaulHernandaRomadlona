@@ -38,7 +38,7 @@ bird = pygame.transform.scale(bird, (50, 50))  # Ukuran burung menjadi 50x50
 pipe_surface = pygame.transform.scale(pipe_surface, (80, 500))  # Ukuran pipa menjadi 80x500
 background = pygame.transform.scale(background, (800, 600))
 
-# Posisikan Pipes
+# Posisikan Pipe
 pipe_list = []
 pipe_height = [400, 500, 600]
 
